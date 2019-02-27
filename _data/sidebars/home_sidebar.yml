@@ -44,7 +44,7 @@ entries:
       
   - title: Tutorials
     output: web
-         folderitems:
+    folderitems:
     - title: Getting started
       url: /gettingstarted.html
       output: web
