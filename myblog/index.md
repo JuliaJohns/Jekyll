@@ -1,29 +1,34 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Home
+title: Overview
 toc: false
 last_updated: Feb 26, 2019
-summary: "This is a test homepage to test Jekyll and GH pages."
+summary: "This page is an example template for API Overview documentation."
 sidebar: home_sidebar
 permalink: index.html
 layout: page
 ---
 
-Test home page
+## Overview 
 
+This page explains:
 
-## Second-level heading 
+*  What you need to consume the API
+*  Why you would use the API
+*  Important concepts
+*  Workflow for common tasks
 
-Body
-
-List
-*  List item1
-*  List item2
-
-### Third-level heading
+### Functionality
 
 Body
 
+### Requirements
 
-#### Fourth-level heading
+List of requirements
+
+### Key concepts
+
+Body
+
+#### API architecture
