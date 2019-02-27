@@ -8,7 +8,7 @@ entries:
   folders:
 
     - title: Tutorials
-    output: web, pdf
+    output: web
     folderitems:
     - title: Getting started
       url: /tutorials.html
@@ -16,4 +16,4 @@ entries:
 
     - title: Find job ID
       url: /tutorials.html
-      output: web, pdf
+      output: web
