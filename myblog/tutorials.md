@@ -1,9 +1,11 @@
 ---
+title: Tutorials
 layout: page
 toc: false
-title: Tutorials
-permalink: /tutorials/
-sidebar: mydoc_sidebar
+summary: "This page provides sample API tutorials."
+last_updated: Feb 27, 2019
+permalink: tutorials.html
+sidebar: home_sidebar
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
