@@ -5,7 +5,7 @@ last_updated: Feb 27, 2019
 summary: "This page is a template for API reference documentation."
 sidebar: home_sidebar
 title: Endpoints summary
-permalink: endpoint.html
+permalink: endpoints.html
 ---
 
 ## About endpoint 1
