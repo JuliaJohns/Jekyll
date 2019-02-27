@@ -20,14 +20,34 @@ entries:
   
   - title: Getting started
     output: web
-    url: /index.html
-    
+     folderitems:
+    - title: Requirements
+      url: /requirements.html
+      output: web
+    - title: Video tutorial
+      url: /tutorials.html
+      output: web
+      
   - title: Reference
     output: web
     url: /reference.html
-      
+     folderitems:
+    - title: Endpoints summary
+      url: /endpoints.html
+      output: web
+    - title: Endpoint
+      url: /endpoint.html
+      output: web
+    - title: Endpoint 2
+      url: /endpoint.html
+      output: web         
       
   - title: Tutorials
     output: web
-    url: /tutorials.html
-      
+         folderitems:
+    - title: Getting started
+      url: /gettingstarted.html
+      output: web
+    - title: Example request
+      url: /endpoint.html
+      output: web
