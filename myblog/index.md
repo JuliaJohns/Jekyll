@@ -12,23 +12,24 @@ layout: page
 
 ## Overview 
 
-This page explains:
+The restful [API Name] by [company name] provides [features] to help you [achieve this end goal]. 
 
-*  What you need to consume the API
-*  Why you would use the API
-*  Important concepts
-*  Workflow for common tasks
+### Data categories
 
-### Functionality
+Data is available in the following categories:
+* Category 1
+* Category 2
+* Category3
+* Category 4
 
-Body
+**GRAPHIC PLACEHOLDER**
 
-### Requirements
+### API architecture
 
-List of requirements
+The following diagram depicts this API's [name of architecture] model.
 
-### Key concepts
+**GRAPHIC PLACEHOLDER**
 
-Body
+### Resources by use case
 
-#### API architecture
+
