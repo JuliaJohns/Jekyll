@@ -5,7 +5,7 @@ title: Overview
 toc: false
 last_updated: Feb 26, 2019
 summary: "This page is an example template for API Overview documentation."
-sidebar: home_sidebar
+sidebar: mydoc2_sidebar
 permalink: index.html
 layout: page
 ---
