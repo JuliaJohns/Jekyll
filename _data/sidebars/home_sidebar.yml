@@ -2,34 +2,32 @@
 
 entries:
 - title: Sidebar
-  levels: two
+  levels: four
   folders:
 
   - title: Overview
     output: web
     folderitems:
     - title: Overview
-      url: /overview.html
+      url: /index.html
       output: web
     - title: Architecture
-      url: /reference.html
+      url: /architecture.html
       output: web
     - title: Requirements
-      url: /mydoc_alerts.html
+      url: /requirements.html
       output: web
-
+  
+  - title: Getting started
+    output: web
+    url: /index.html
+    
   - title: Reference
     output: web
-    folderitems:
-    - title: Reference
-      url: /reference.html
-      output: web
-    - title: Endpoints overview
-      url: /reference.html
-      output: web
-    - title: Requests
-      url: /mydoc_alerts.html
-      output: web
-    - title: Responses
-      url: /tutorials/
-      output: web
+    url: /reference.html
+      
+      
+  - title: Tutorials
+    output: web
+    url: /tutorials.html
+      
