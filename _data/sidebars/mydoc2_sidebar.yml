@@ -8,7 +8,7 @@ entries:
 
   - title: Overview
     output: web, pdf
-    url: /overview.html
+    url: /index.html
     output: web, pdf
     type: homepage
 
@@ -16,7 +16,6 @@ entries:
     output: web, pdf
     url: /reference.html
     output: web, pdf
-    type: homepage
     
   - title: Tutorials
     output: web, pdf
