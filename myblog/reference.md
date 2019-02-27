@@ -3,7 +3,7 @@ layout: page
 toc: false
 last_updated: Feb 27, 2019
 summary: "This page is a template for API reference documentation."
-sidebar: mydoc2_sidebar
+sidebar: home_sidebar
 title: Reference
 permalink: reference.html
 ---
