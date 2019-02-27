@@ -1,0 +1,36 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Sample API Doc
+  version: 0.0
+  folders:
+
+  - title: Overview
+    output: web, pdf
+    url: /overview.html
+    output: web, pdf
+    type: homepage
+
+   - title: Reference
+    output: web, pdf
+    url: /reference.html
+    output: web, pdf
+    type: homepage
+    
+  - title: Tutorials
+    output: web, pdf
+
+    folderitems:
+    - title: Getting started
+      url: /mydoc_pages.html
+      output: web, pdf
+
+    - title: Find Job ID
+      url: /reference.html
+      output: web, pdf
+
+  - title: Contact us
+    output: web, pdf
+    url: /reference.html
+    output: web, pdf
