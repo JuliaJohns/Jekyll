@@ -31,7 +31,7 @@ entries:
   - title: Reference
     output: web
     url: /reference.html
-     folderitems:
+    folderitems:
     - title: Endpoints summary
       url: /endpoints.html
       output: web
