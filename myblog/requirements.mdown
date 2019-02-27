@@ -1,0 +1,27 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Requirements
+toc: false
+last_updated: Feb 26, 2019
+summary: "This page is an example template for API Overview documentation."
+sidebar: home_sidebar
+permalink: requirements.html
+layout: page
+---
+
+## What you need to succeed 
+
+This page describes what you need to use the API. 
+
+### Skills
+
+List technical pre-requisites here.
+
+### Software
+
+List all software, browser, and OS requirements here.
+
+
+
+

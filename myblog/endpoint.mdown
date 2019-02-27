@@ -5,18 +5,18 @@ last_updated: Feb 27, 2019
 summary: "This page is a template for API reference documentation."
 sidebar: home_sidebar
 title: Endpoints summary
-permalink: reference.html
+permalink: endpoint.html
 ---
 
-This page summarizes all available endpoints.
+## About endpoint 1
+
+Endpoint description
 
 
-## Endpoint overview
+## Make a request
 
-Summary of endpoints.
+Call the endpoint.
 
-## Selecting an endpoint
+## Receive the response
 
-Summary 
-
-## Receiving responses 
+What the response looks like.

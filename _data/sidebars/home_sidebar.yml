@@ -49,5 +49,5 @@ entries:
       url: /gettingstarted.html
       output: web
     - title: Example request
-      url: /endpoint.html
+      url: /tutorial2.html
       output: web
