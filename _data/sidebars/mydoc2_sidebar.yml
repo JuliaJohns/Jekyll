@@ -20,17 +20,9 @@ entries:
     
   - title: Tutorials
     output: web, pdf
-
-    folderitems:
-    - title: Getting started
-      url: /mydoc_pages.html
-      output: web, pdf
-
-    - title: Find Job ID
-      url: /reference.html
-      output: web, pdf
+    url: /tutorials.html
 
   - title: Contact us
     output: web, pdf
-    url: /reference.html
+    url: /contact.html
     output: web, pdf
