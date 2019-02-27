@@ -1,6 +1,7 @@
 ---
 layout: page
 toc: false
+hide_sidebar: false
 title: Reference
 permalink: /reference/
 sidebar: mydoc_sidebar
