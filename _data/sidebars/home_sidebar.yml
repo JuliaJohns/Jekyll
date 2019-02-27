@@ -20,7 +20,7 @@ entries:
   
   - title: Getting started
     output: web
-     folderitems:
+    folderitems:
     - title: Requirements
       url: /requirements.html
       output: web
