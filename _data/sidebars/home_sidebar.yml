@@ -1,19 +1,22 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
+- title: Sidebar
+  levels: one
+  folders:
 
-- title: Overview
-  output: web
-  url: /index
-    
-- title: Getting started
-  output: web
-  url: /index
-
-- title: Reference
-  output: web
-  url: /reference
-
-- title: Tutorials
-  output: web
-  url: /tutorials
+  - title: Overview
+    output: web
+    folderitems:
+    - title: overview
+      url: /overview.html
+      output: web
+    - title: Theme instructions
+      url: /reference.html
+      output: web
+    - title: Product 1
+      url: /mydoc_alerts.html
+      output: web
+    - title: Product 2
+      url: /tutorials/
+      output: web
