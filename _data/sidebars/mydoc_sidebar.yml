@@ -6,19 +6,6 @@ entries:
   version: 0.0
   folders:
 
-  - title:Contents
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /tutorials.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /mydoc_alerts.html
-      output: pdf
-      type: frontmatter
-
   - title: Overview
     output: web, pdf
     folderitems:
