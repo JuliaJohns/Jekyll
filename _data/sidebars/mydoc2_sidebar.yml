@@ -12,7 +12,7 @@ entries:
     output: web, pdf
     type: homepage
 
-   - title: Reference
+  - title: Reference
     output: web, pdf
     url: /reference.html
     output: web, pdf
