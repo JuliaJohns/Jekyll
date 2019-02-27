@@ -1,11 +1,11 @@
 ---
 layout: page
 toc: false
-hide_sidebar: false
-title: Reference
-permalink: /reference/
+last_updated: Feb 27, 2019
+summary: "This page is a template for API reference documentation."
 sidebar: home_sidebar
-
+title: Reference
+permalink: reference.html
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
