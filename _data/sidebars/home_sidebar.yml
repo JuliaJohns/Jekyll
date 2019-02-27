@@ -5,11 +5,11 @@ entries:
   levels: one
   folders:
 
-  - title: Overview
+  - title: Reference
     output: web
     folderitems:
-    - title: overview
-      url: /overview.html
+    - title: Reference
+      url: /reference.html
       output: web
     - title: Theme instructions
       url: /reference.html

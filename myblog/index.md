@@ -5,7 +5,7 @@ title: Home
 toc: false
 last_updated: Feb 26, 2019
 summary: "This is a test homepage to test Jekyll and GH pages."
-sidebar: mydoc_sidebar
+sidebar: home_sidebar
 permalink: index.html
 layout: page
 ---
