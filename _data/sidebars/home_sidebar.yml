@@ -20,3 +20,20 @@ entries:
     - title: Product 2
       url: /tutorials/
       output: web
+
+
+  - title: Reference
+    output: web
+    folderitems:
+    - title: Reference
+      url: /reference.html
+      output: web
+    - title: Endpoints overview
+      url: /reference.html
+      output: web
+    - title: Requests
+      url: /mydoc_alerts.html
+      output: web
+    - title: Responses
+      url: /tutorials/
+      output: web
