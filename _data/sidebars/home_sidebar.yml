@@ -2,25 +2,21 @@
 
 entries:
 - title: Sidebar
-  levels: one
+  levels: two
   folders:
 
   - title: Overview
     output: web
     folderitems:
-    - title: overview
+    - title: Overview
       url: /overview.html
       output: web
-    - title: Theme instructions
+    - title: Architecture
       url: /reference.html
       output: web
-    - title: Product 1
+    - title: Requirements
       url: /mydoc_alerts.html
       output: web
-    - title: Product 2
-      url: /tutorials/
-      output: web
-
 
   - title: Reference
     output: web
