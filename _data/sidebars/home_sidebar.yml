@@ -5,18 +5,18 @@ entries:
   levels: one
   folders:
 
-  - title: Reference
+  - title: Contents
     output: web
     folderitems:
     - title: Reference
-      url: /reference.html
+      url: /reference/
       output: web
-    - title: Theme instructions
-      url: /reference.html
+    - title: Tutorials
+      url: /tutorials/
       output: web
-    - title: Product 1
+    - title: Change Log
       url: /mydoc_alerts.html
       output: web
-    - title: Product 2
+    - title: Tutorials 2
       url: /tutorials/
       output: web
