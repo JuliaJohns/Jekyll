@@ -18,5 +18,4 @@ Define status codes and errors here. Specify how to resolve each error, if possi
 
 ## Report an issue
 
-<a href="mailto:julia.johns@hypertherm.com">Let us know</a> if you have an issue. 
-
+<a href="mailto:julia.johns@hypertherm.com">Contact us</a> if the troubleshooting tips above don't resolve your issue.
