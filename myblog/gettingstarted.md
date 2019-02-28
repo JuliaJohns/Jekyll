@@ -1,10 +1,11 @@
 ---
+title: Getting started with the API
 layout: page
+toc: false
+summary: "This page helps you get started with the API."
 last_updated: Feb 27, 2019
-summary: "This page is a template for API reference documentation."
-sidebar: home_sidebar
-title: Getting started
 permalink: gettingstarted.html
+sidebar: home_sidebar
 ---
 
 ## Before you begin
@@ -33,4 +34,3 @@ Walk through a common call.
 
 
 [Back to top](#Before you begin)
-

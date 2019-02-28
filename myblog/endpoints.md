@@ -1,5 +1,5 @@
 ---
-title: Get more data
+title: Endpoints summary
 layout: page
 toc: false
 summary: "This page provides sample API tutorials."
@@ -8,14 +8,17 @@ permalink: endpoints.html
 sidebar: home_sidebar
 ---
 
-## Send a GET request to any endpoint
+## The following endpoints are available
 
 Paragraph placeholder.
 
+* Endpoint 1
+* Endpoint 2
+* Endpoint 3
 
-## Make a request
+## Selecting an endpoint
 
-Call the endpoint. Here is a sample ordered list:
+To select an endpoint:
 
 1. List step 1
 2. List step 2.
@@ -25,6 +28,15 @@ Call the endpoint. Here is a sample ordered list:
 
 ## Receive the response
 
-What the response looks like.
+To receive the response:
+
+1. List step 1
+2. List step 2.
+
+### Example response
+
+Here is what the response looks like:
+
+*Note:* For data definitions, refer to the *Glosssary*.
 
 [Back to top](#Send)

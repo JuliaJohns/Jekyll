@@ -4,7 +4,7 @@ layout: page
 toc: false
 summary: "This page provides sample API tutorials."
 last_updated: Feb 27, 2019
-permalink: tutorials.html
+permalink: endpoint.html
 sidebar: home_sidebar
 ---
 

@@ -2,9 +2,16 @@
 
 entries:
 - title: Sidebar
-  levels: four
+  levels: five
   folders:
 
+  - title: Home
+    output: web
+    folderitems:
+    - title: Support topics
+      url: /index.html
+      output: web
+  
   - title: Overview
     output: web
     folderitems:

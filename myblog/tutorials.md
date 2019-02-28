@@ -8,33 +8,20 @@ permalink: tutorials.html
 sidebar: home_sidebar
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Tutorial 1: What is a REST API? 
 
-
-## Tutorial 1 
-
-Body
+A REST API is...
 
 List
 *  List item1
 *  List item2
 
+Watch the tutorial [on YouTube](https://youtu.be/7YcW25PHnAA).
+
 ## Tutorial 2
+
+Body
 
 ### Third-level heading
 
 Body
-
-
-#### Fourth-level heading
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
