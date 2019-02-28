@@ -12,8 +12,8 @@ sidebar: home_sidebar
 
 Paragraph placeholder.
 
-* [Endpoint 1](/endpoint.html)
-* [Endpoint 2](/endpoint2.html)
+* [Endpoint 1](apidoc/endpoint.html)
+* [Endpoint 2](apidoc/endpoint.html)
 * Endpoint 3
 
 ## Selecting an endpoint
