@@ -2,7 +2,7 @@
 title: Call endpoint 2
 layout: page
 toc: false
-summary: "This page provides sample API tutorials."
+summary: "This page provides explains how to call endpoint 2 and what to expect in the response."
 last_updated: Feb 27, 2019
 permalink: endpoint2.html
 sidebar: home_sidebar
