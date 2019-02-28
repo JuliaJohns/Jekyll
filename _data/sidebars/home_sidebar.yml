@@ -16,7 +16,7 @@ entries:
     output: web
     folderitems:
     - title: Overview
-      url: /index.html
+      url: /overview.html
       output: web
     - title: Architecture
       url: /architecture.html
