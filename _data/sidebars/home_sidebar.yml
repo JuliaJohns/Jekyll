@@ -31,9 +31,6 @@ entries:
     - title: Requirements
       url: /requirements.html
       output: web
-    - title: Video tutorial
-      url: /tutorials.html
-      output: web
       
   - title: Reference
     output: web
