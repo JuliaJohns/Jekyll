@@ -10,17 +10,17 @@ layout: page
 
 ## What you need to succeed 
 
-This section lists what you need to use the API. 
+### Software
+
+To be successful consuming the API, you need:
 
 * Software requirement 1: Description.
 * Software requirement 2: Description.
 
+Software XYZ is also nice-to-have to make sure you get benefit XYZ.
+
 ### Skills
 
-List technical pre-requisites here.
+The following skills are useful when consuming this API:
 * Skill requirement 1: Description.
 * Skill equirement 2: Description.
-
-
-
-
