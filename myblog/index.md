@@ -26,7 +26,7 @@ Here's the sample knowledge-base style layout:
                  <div class="panel-body">
                      <h4>Getting started</h4>
                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                     <a href="tag_getting_started.html" class="btn btn-primary">Learn More</a>
+                     <a href="gettingstarted.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
