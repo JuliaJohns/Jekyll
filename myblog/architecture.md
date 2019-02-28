@@ -2,7 +2,7 @@
 title: API architecture
 layout: page
 toc: false
-summary: "This page is a placeholder for API architecture documentation. This website is an experiment to test publishing tools, so the content on these pages is just for illustration and may not make sense.
+summary: "This page is a placeholder for API architecture documentation. This website is an experiment to test publishing tools, so the content on these pages is just for illustration and may not make sense."
 last_updated: Feb 27, 2019
 permalink: architecture.html
 sidebar: home_sidebar
