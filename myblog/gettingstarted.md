@@ -2,7 +2,7 @@
 title: Getting started with the API
 layout: page
 toc: false
-summary: "This page helps you get started with the API."
+summary: "This page helps you get started with the API. This is an experiment to test publishing tools. The content is placeholder text."
 last_updated: Feb 27, 2019
 permalink: gettingstarted.html
 sidebar: home_sidebar
