@@ -19,4 +19,4 @@ The following diagram depicts this API's [name of architecture] model.
 * Special note 2.
 
 ## Get started.
-To get started consuming the API, [review this tutorial.](/gettingstarted)
+To get started consuming the API, [review this tutorial.](gettingstarted.html)

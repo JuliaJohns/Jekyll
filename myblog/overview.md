@@ -1,10 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Overview
+title: API Support Home
 toc: false
 last_updated: Feb 26, 2019
-summary: "This page is an example template for API Overview documentation."
+summary: "This page is a rough example of an API Support homepage created with Jekyll and hosted for free on GitHub pages."
 sidebar: home_sidebar
 permalink: overview.html
 layout: page
