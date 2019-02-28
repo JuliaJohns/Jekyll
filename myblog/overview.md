@@ -24,6 +24,8 @@ Data is available in the following categories:
 
 **GRAPHIC PLACEHOLDER**
 
+
+
 ### API architecture
 
 The following diagram depicts this API's [name of architecture] model.
@@ -31,5 +33,35 @@ The following diagram depicts this API's [name of architecture] model.
 **GRAPHIC PLACEHOLDER**
 
 ### Resources by use case
+
+Sample paragraph.
+
+
+[Back to top](#overview)
+
+
+### Example
+
+Here is a sample list:
+
+* Sample list item 1
+* Sample list item 2
+* Sample list item 3
+* Sample list item 4
+
+
+[Back to top](#overview)
+
+### Example
+
+Here is a sample list:
+
+* Sample list item 1
+* Sample list item 2
+* Sample list item 3
+* Sample list item 4
+
+
+[Back to top](#overview)
 
 
