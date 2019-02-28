@@ -2,7 +2,7 @@
 title: Endpoints summary
 layout: page
 toc: false
-summary: "This page provides sample API tutorials."
+summary: "This page is a placeholder for API endpoint reference documentation."
 last_updated: Feb 27, 2019
 permalink: endpoints.html
 sidebar: home_sidebar
