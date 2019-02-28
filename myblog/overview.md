@@ -6,6 +6,7 @@ toc: false
 last_updated: Feb 26, 2019
 summary: "This page is a rough example of an outline for API overview documentation. This is an experiment to test publishing tools. The content is just theoretical placeholder text."
 permalink: overview.html
+sidebar: home_sidebar
 layout: page
 ---
 
