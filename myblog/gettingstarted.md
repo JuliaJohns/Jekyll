@@ -1,11 +1,11 @@
 ---
 title: Getting started with the API
 layout: page
+permalink: gettingstarted.html
+sidebar: home_sidebar
 toc: false
 summary: "This page helps you get started with the API. This is an experiment to test publishing tools. The content is placeholder text."
 last_updated: Feb 27, 2019
-permalink: gettingstarted.html
-sidebar: home_sidebar
 ---
 
 ## Before you begin
@@ -24,9 +24,9 @@ The following diagram depicts this API's [name of architecture] model.
 
 View the video tutorial.
 
-[Back to top](#Before you begin)
-
 **Video placeholder**
+
+[Back to top](#Before you begin)
 
 ## Step-by-step: Make your first call
 
