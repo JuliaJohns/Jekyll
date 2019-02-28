@@ -4,7 +4,7 @@ layout: page
 toc: false
 summary: "This page is a placeholder for API troubleshooting documentation."
 last_updated: Feb 27, 2019
-permalink: endpoints.html
+permalink: troubleshooting.html
 sidebar: home_sidebar
 ---
 
