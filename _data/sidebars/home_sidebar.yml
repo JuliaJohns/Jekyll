@@ -14,9 +14,6 @@ entries:
     - title: Architecture
       url: /architecture.html
       output: web
-    - title: test
-      url: /architecture.html
-      output: web
   
   - title: Getting started
     output: web
