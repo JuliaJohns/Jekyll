@@ -4,8 +4,7 @@
 title: API Overview
 toc: false
 last_updated: Feb 26, 2019
-summary: "This page is a rough example of an outline for API overview documentation. This is an experiment to test publishing tools, so the content on these pages is just for illustration and may not make sense."
-sidebar: home_sidebar
+summary: "This page is a rough example of an outline for API overview documentation. This is an experiment to test publishing tools. The content is just theoretical placeholder text."
 permalink: overview.html
 layout: page
 ---
