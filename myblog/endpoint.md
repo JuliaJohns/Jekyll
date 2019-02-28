@@ -1,11 +1,11 @@
 ---
+title: Call endpoint 1
 layout: page
 toc: false
+summary: "This page provides sample API tutorials."
 last_updated: Feb 27, 2019
-summary: "This page is a template for API reference documentation."
+permalink: tutorials.html
 sidebar: home_sidebar
-title: Endpoints summary
-permalink: endpoint.html
 ---
 
 ## About endpoint 1
