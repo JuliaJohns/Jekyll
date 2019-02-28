@@ -1,8 +1,7 @@
 ---
-title: Knowledge-base layout
+title: API Support
 layout: kb_layout
 keywords: knowledge base, support portal, grid, doc portal
-last_updated: 2/28/19
 summary: "This shows a sample layout for a knowledge base. Each square could link to a tag archive page. In this example, font icons from Font Awesome are used for the graphics, and the layout is pulled from the Modern Business theme. ."
 sidebar: false
 permalink: index.html
