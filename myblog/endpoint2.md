@@ -1,5 +1,5 @@
 ---
-title: Call endpoint 1
+title: Call endpoint 2
 layout: page
 toc: false
 summary: "This page provides sample API tutorials."
@@ -8,7 +8,7 @@ permalink: endpoint2.html
 sidebar: home_sidebar
 ---
 
-## About endpoint 1
+## About endpoint 2
 
 Endpoint description
 

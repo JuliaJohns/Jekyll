@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: API Support Home
+title: API Overview
 toc: false
 last_updated: Feb 26, 2019
 summary: "This page is a rough example of an API Support homepage created with Jekyll and hosted for free on GitHub pages."
@@ -10,7 +10,7 @@ permalink: overview.html
 layout: page
 ---
 
-## Overview 
+## Introduction
 
 The restful [API Name] by [company name] provides [features] to help you [achieve this end goal]. 
 
