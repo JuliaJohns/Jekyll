@@ -1,11 +1,11 @@
 ---
 title: Getting started with the API
 layout: page
-permalink: gettingstarted.html
-sidebar: home_sidebar
 toc: false
 summary: "This page helps you get started with the API. This is an experiment to test publishing tools. The content is placeholder text."
 last_updated: Feb 27, 2019
+sidebar: home_sidebar
+permalink: gettingstarted.html
 ---
 
 ## Before you begin

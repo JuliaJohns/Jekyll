@@ -4,8 +4,8 @@ layout: page
 toc: false
 summary: "This page is a placeholder for API endpoint reference documentation. This is a test."
 last_updated: Feb 27, 2019
-permalink: endpoints.html
 sidebar: home_sidebar
+permalink: endpoints.html
 ---
 
 ## The following endpoints are available
