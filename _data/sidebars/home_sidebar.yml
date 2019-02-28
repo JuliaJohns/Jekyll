@@ -44,7 +44,10 @@ entries:
       output: web
     - title: Endpoint 2
       url: /endpoint2.html
-      output: web         
+      output: web
+    - title: Troubleshooting
+      url: /troubleshooting.html
+      output: web
       
   - title: Tutorials
     output: web
