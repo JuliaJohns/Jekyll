@@ -56,7 +56,7 @@ entries:
     output: web
     folderitems:
     - title: Getting started
-      url: /gettingstarted.html
+      url: /gettingstarted.html#video-tutorial
       output: web
     - title: All tutorials
       url: /tutorials.html

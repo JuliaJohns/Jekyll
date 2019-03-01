@@ -29,8 +29,6 @@ Before making your first API call:
     2. sub-list numbered two
 3.  Another list item.
 
-[Back to top](#before-you-begin)
-
 ## Step-by-step: Make your first
 
 Follow these written instructions or watch the video below.
