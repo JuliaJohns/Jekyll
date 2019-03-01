@@ -31,7 +31,7 @@ Before making your first API call:
 
 ## Step-by-step: Make your first
 
-Follow the written instructions below or watch the [video tutorial](#video).
+Follow these written instructions or watch the video below.
 
 1.  Step 1
 2.  Step 2
