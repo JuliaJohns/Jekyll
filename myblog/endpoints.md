@@ -29,7 +29,12 @@ The following endpoints are available.
 <td markdown="span">Some descriptive text.</td>
 </tr>
 <tr>
-<td markdown="span">[Endpoint 1](endpoint.html)</td>
+<td markdown="span">[Endpoint 2](endpoint.html)</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+<tr>
+<td markdown="span">Endpoint 3</td>
 <td markdown="span">Some more descriptive text.
 </td>
 </tr>
