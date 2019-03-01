@@ -17,12 +17,14 @@ The restful [API Name] by [company name] provides [features] to help you [achiev
 ### Data categories
 
 Data is available in the following categories:
+
+
+{% include image.html file="data-cat.png" url="https://idratherbewriting.com/documentation-theme-jekyll/mydoc_images.html" alt="Data categories representation" caption="This is a sample caption." %}
+
 * Category 1
 * Category 2
 * Category3
 * Category 4
-
-**GRAPHIC PLACEHOLDER**
 
 ### API architecture
 
@@ -31,7 +33,6 @@ The following diagram depicts this API's [name of architecture] model. [Learn mo
 ### Resources by use case
 
 Sample paragraph.
-
 
 [Back to top](#introduction)
 
