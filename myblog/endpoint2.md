@@ -12,14 +12,13 @@ sidebar: home_sidebar
 
 Endpoint description
 
-## Send a GET request to endpoint 1
+## Send a GET request to endpoint 2
 
 To send a GET request:
 
 1.  List step 1.
 
-    This is a result statement that talks about something....
-
+    This sentence adds more detail about step 1 and introduces an unordered list:
 		* Insert non-sequential note about step 1 here.
 		* Insert note about step 2 here.
 
