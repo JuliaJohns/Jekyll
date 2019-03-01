@@ -25,11 +25,11 @@ entries:
   - title: Getting started
     output: web
     folderitems:
-    - title: Getting Started
-      url: /gettingstarted.html
-      output: web
     - title: Requirements
       url: /requirements.html
+      output: web
+    - title: Getting Started
+      url: /gettingstarted.html
       output: web
       
   - title: Reference

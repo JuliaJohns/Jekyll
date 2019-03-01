@@ -30,4 +30,4 @@ The following skills are useful when consuming this API:
 ## Next steps
 If you have the required software and skills noted above, you are ready to get [started](gettingstarted.html).
 
-Back to top[#what]
+[Back to top](#what)

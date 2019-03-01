@@ -10,6 +10,8 @@ permalink: gettingstarted.html
 
 ## Before you begin
 
+If you have reviewed the [requirements for consuming this API](requirements.html), then you are ready to get started.
+
 Before making your first API call:
 
 1.  Sample first item.
