@@ -1,14 +1,16 @@
 ---
 title: Requirements
 toc: false
-last_updated: Feb 26, 2019
+last_updated: March 1, 2019
 summary: "This page is an example template for listing API requirements"
 sidebar: home_sidebar
 permalink: requirements.html
 layout: page
 ---
 
-## What you need to succeed 
+## What you need to succeed
+
+This API is intended for developers who [fill in the blank]. As a prerequisite to using the API, the documentation assumes you have completed the prerequisites listed below.
 
 ### Software
 

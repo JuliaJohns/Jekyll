@@ -237,7 +237,7 @@ This section describes how to call the EDGE Connect Data API to get data in each
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2019 . All rights reserved. <br />
- Site last generated: Feb 28, 2019 <br />
+ Site last generated: Mar 1, 2019 <br />
 <p></p>
 <p><img src="images/company_logo.png" alt="Company logo"/></p>
                 </div>
