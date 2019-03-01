@@ -20,7 +20,7 @@ Before making your first API call:
 2.  Continuing the list.
 
     1. sub-list numbered one
-    
+
       ```js
       console.log('Example code block');```
 
@@ -37,17 +37,8 @@ This is API follows the [name of architecture] model.
 
 [Learn more.](architecture.html)
 
-## Video tutorial
-
-View the video tutorial.
-
-**Video placeholder**
-
-[Back to top](#Before you begin)
-
 ## Step-by-step: Make your first call
 
-Walk through a common call.
-
+Follow the written instructions below or watch the [Getting Started Video Tutorial](tutorials.html).
 
 [Back to top](#Before you begin)

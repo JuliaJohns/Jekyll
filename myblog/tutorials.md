@@ -22,6 +22,7 @@ Watch this tutorial [from YouTube](https://youtu.be/7YcW25PHnAA).
 
 ## Tutorial 2: What is the Open API Specification (OAS)?
 
+The Open API specification is... To learn more, check out this [YouTube video](https://youtu.be/6kwmW_p_Tig):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6kwmW_p_Tig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Third-level heading
