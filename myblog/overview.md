@@ -12,7 +12,7 @@ layout: page
 
 ## Introduction
 
-The restful [API Name] by [company name] provides [features] to help you [achieve this end goal]. 
+The restful [API Name] by [company name] provides [features] to help you [achieve this end goal].
 
 ### Data categories
 
@@ -24,20 +24,16 @@ Data is available in the following categories:
 
 **GRAPHIC PLACEHOLDER**
 
-
-
 ### API architecture
 
-The following diagram depicts this API's [name of architecture] model.
-
-**GRAPHIC PLACEHOLDER**
+The following diagram depicts this API's [name of architecture] model. [Learn more](/architecture.html).
 
 ### Resources by use case
 
 Sample paragraph.
 
 
-[Back to top](#overview)
+[Back to top](#introduction)
 
 
 ### Example
@@ -50,7 +46,7 @@ Here is a sample list:
 * Sample list item 4
 
 
-[Back to top](#overview)
+[Back to top](#introduction)
 
 ### Example
 
@@ -62,6 +58,4 @@ Here is a sample list:
 * Sample list item 4
 
 
-[Back to top](#overview)
-
-
+[Back to top](#introduction)

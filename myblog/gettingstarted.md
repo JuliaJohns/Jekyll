@@ -23,13 +23,13 @@ Before making your first API call:
 
     1. sub-list numbered one
 
-      ```js
-      console.log('Example code block');```
+      ````js
+      console.log('Example code block');````
 
     2. sub-list numbered two
 3.  Another list item.
 
-[Back to top](#Before you begin)
+[Back to top](#before-you-begin)
 
 ## Step-by-step: Make your first
 
@@ -45,4 +45,5 @@ Here is an example of an embedded video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CmBm59V-SOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Back to top](#Before you begin)
+
+[Back to top](#before-you-begin)
