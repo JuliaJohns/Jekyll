@@ -11,7 +11,8 @@ sidebar: home_sidebar
 ## API diagram
 The following diagram depicts this API's [name of architecture] model.
 
-**GRAPHIC PLACEHOLDER**
+*Example*
+{% include image.html file="helpapi-01.png" url="https://idratherbewriting.com/documentation-theme-jekyll/mydoc_images.html" alt="Example diagram" caption="This is a sample caption." %}
 
 ### Special notes
 

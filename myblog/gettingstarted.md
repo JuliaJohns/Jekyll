@@ -20,8 +20,10 @@ Before making your first API call:
 2.  Continuing the list.
 
     1. sub-list numbered one
-    2. sub-list numbered two
+      ```js
+      console.log('Example code block');```
 
+    2. sub-list numbered two
 3.  Another list item.
 
 
@@ -29,7 +31,7 @@ Before making your first API call:
 
 This is API follows the [name of architecture] model.
 
-Example
+*Example*
 {% include image.html file="helpapi-01.png" url="https://idratherbewriting.com/documentation-theme-jekyll/mydoc_images.html" alt="Example diagram" caption="This is a sample caption." %}
 
 [Learn more.](architecture.html)
