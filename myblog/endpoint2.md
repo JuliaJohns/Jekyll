@@ -14,6 +14,6 @@ Endpoint description
 
 ## Send a GET request to endpoint 2
 
-{% include custom/_insets_send_rqst.html %}
+INSERT REFERENCE FOR INCLUDE REUSED CONTENT HERE
 
 [Back to top](#about)
