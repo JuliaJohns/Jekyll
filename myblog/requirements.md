@@ -26,3 +26,8 @@ Software XYZ is also nice-to-have to make sure you get benefit XYZ.
 The following skills are useful when consuming this API:
 * Skill requirement 1: Description.
 * Skill equirement 2: Description.
+
+## Next steps
+If you have the required software and skills noted above, you are ready to get [started](gettingstarted.html).
+
+Back to top[#what]
