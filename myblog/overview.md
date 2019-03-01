@@ -26,7 +26,7 @@ Data is available in the following categories:
 
 ### API architecture
 
-The following diagram depicts this API's [name of architecture] model. [Learn more](/architecture.html).
+The following diagram depicts this API's [name of architecture] model. [Learn more](architecture.html).
 
 ### Resources by use case
 
