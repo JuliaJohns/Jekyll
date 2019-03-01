@@ -40,6 +40,8 @@ To send a GET request:
 
 4.  Another item
 
+[Back to top](#about)
+
 ## Receive the response
 
 Describe and introduce the response:
@@ -48,6 +50,6 @@ Describe and introduce the response:
 function alert("This is an example code block");
 ```
 
-
-
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> To learn about the data in the response, refer to the [*Glossary*](glossary.html).</div>
+
+[Back to top](#about)
