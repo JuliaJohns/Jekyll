@@ -37,8 +37,18 @@ This is API follows the [name of architecture] model.
 
 [Learn more.](architecture.html)
 
-## Step-by-step: Make your first call
+## Step-by-step: Make your first
 
-Follow the written instructions below or watch the [Getting Started Video Tutorial](tutorials.html).
+Follow the written instructions below or watch the [video tutorial](#video).
+
+1.  Step 1
+2.  Step 2
+3.  Step 3.
+
+## Video tutorial
+
+Here is an example of an embedded video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CmBm59V-SOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Back to top](#Before you begin)
