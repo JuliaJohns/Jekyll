@@ -27,10 +27,12 @@ Before making your first API call:
 
 ### API architecture
 
-The following diagram depicts this API's [name of architecture] model.
+This is API follows the [name of architecture] model.
 
-**GRAPHIC PLACEHOLDER**
+Example
+{% include image.html file="helpapi-01.png" url="https://idratherbewriting.com/documentation-theme-jekyll/mydoc_images.html" alt="Example diagram" caption="This is a sample caption." %}
 
+[Learn more.](architecture.html)
 
 ## Video tutorial
 
