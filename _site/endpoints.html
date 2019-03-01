@@ -348,11 +348,29 @@
 
 <p>The following endpoints are available.</p>
 
-<ul>
-  <li><a href="endpoint.html">Endpoint 1</a></li>
-  <li><a href="endpoint2.html">Endpoint 2</a></li>
-  <li>Endpoint 3</li>
-</ul>
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Endpoint</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="endpoint.html">Endpoint 1</a></td>
+<td>Some descriptive text.</td>
+</tr>
+<tr>
+<td><a href="endpoint.html">Endpoint 1</a></td>
+<td>Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
 
 <h2 id="get-requests">GET requests</h2>
 
@@ -364,7 +382,7 @@
 
     <p>This is a result statement that talks about something….</p>
 
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* Insert note about step 2 here.
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* Insert non-sequential note about step 1 here.
 * Insert note about step 2 here.
 </code></pre></div>    </div>
   </li>
@@ -405,7 +423,12 @@
 
 <p>Here is what the response looks like:</p>
 
-<p>[placeholder]</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Successful operation response:
+ {"result":"The operation was successful."}
+
+// Failed operation response:
+ {"errorMessage":"XXXXXX" "To resolve the issue..."}
+</code></pre></div></div>
 
 <p><em>Note:</em> For data definitions, refer to the <em>Glosssary</em>.</p>
 

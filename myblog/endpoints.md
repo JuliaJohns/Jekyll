@@ -12,9 +12,29 @@ permalink: endpoints.html
 
 The following endpoints are available.
 
-* [Endpoint 1](endpoint.html)
-* [Endpoint 2](endpoint2.html)
-* Endpoint 3
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Endpoint</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">[Endpoint 1](endpoint.html)</td>
+<td markdown="span">Some descriptive text.</td>
+</tr>
+<tr>
+<td markdown="span">[Endpoint 1](endpoint.html)</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
 
 ## GET requests
 
@@ -24,7 +44,7 @@ To send a GET request:
 
     This is a result statement that talks about something....
 
-		* Insert note about step 2 here.
+		* Insert non-sequential note about step 1 here.
 		* Insert note about step 2 here.
 
 2.  List step 2.
@@ -57,9 +77,14 @@ To receive the response:
 
 Here is what the response looks like:
 
-[placeholder]
+```
+// Successful operation response:
+ {"result":"The operation was successful."}
+
+// Failed operation response:
+ {"errorMessage":"XXXXXX" "To resolve the issue..."}
+```
 
 *Note:* For data definitions, refer to the *Glosssary*.
-
 
 [Back to top](#Resources)

@@ -8,7 +8,7 @@ permalink: tutorials.html
 sidebar: home_sidebar
 ---
 
-## Tutorial 1: What is a REST API? 
+## Tutorial 1: What is a REST API?
 
 A REST API is...
 
@@ -16,11 +16,13 @@ List
 *  List item1
 *  List item2
 
-Watch the tutorial [on YouTube](https://youtu.be/7YcW25PHnAA).
+Watch this tutorial [from YouTube](https://youtu.be/7YcW25PHnAA).
 
-## Tutorial 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7YcW25PHnAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Body
+## Tutorial 2: What is the Open API Specification (OAS)?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kwmW_p_Tig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Third-level heading
 
